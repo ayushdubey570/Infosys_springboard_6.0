@@ -38,7 +38,7 @@ _ Run the script:
 ```bash
 python normalize_tickets.py
 ```
-- Look for the file cleaned_support_tickets.csv in your folder.
+- Look for the file cleaned_support_data.csv in your folder.
 
 ### 🧠 Key Terminology
 
