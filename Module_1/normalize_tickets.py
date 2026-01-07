@@ -41,5 +41,5 @@ print("\n--- STATUS COUNTS ---")
 print(df['ticket_status'].value_counts())
 
 # 3. Save your hard work to a new file so you can use it later
-df.to_csv('cleaned_support_tickets.csv', index=False)
-print("\nSuccess! Your cleaned data has been saved to 'cleaned_support_tickets.csv'.")
+df.to_csv('cleaned_support_data.csv', index=False)
+print("\nSuccess! Your cleaned data has been saved to 'cleaned_support_data.csv'.")
